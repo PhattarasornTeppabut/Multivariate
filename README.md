@@ -2,7 +2,7 @@
 
 ### ภัทรสร ID 623020531-5
 
-.md => Markdown 
+.md => Markdown
 [] square brackets
 
 () parentheses
